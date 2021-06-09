@@ -1,0 +1,590 @@
+{
+  "airport_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 0,
+    "y": 0
+  },
+  "animist_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 20,
+    "y": 0
+  },
+  "army_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 0,
+    "y": 20
+  },
+  "bar_resto_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 20,
+    "y": 20
+  },
+  "bladder_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 40,
+    "y": 0
+  },
+  "borehole_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 60,
+    "y": 0
+  },
+  "buddhist_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 40,
+    "y": 20
+  },
+  "bus_station_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 60,
+    "y": 20
+  },
+  "camp_entry_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 0,
+    "y": 40
+  },
+  "camp_management_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 20,
+    "y": 40
+  },
+  "cemetery_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 40,
+    "y": 40
+  },
+  "christian_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 60,
+    "y": 40
+  },
+  "circle-11": {
+    "height": 17,
+    "pixelRatio": 1,
+    "width": 17,
+    "x": 200,
+    "y": 40
+  },
+  "clinic_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 0,
+    "y": 60
+  },
+  "college_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 20,
+    "y": 60
+  },
+  "comm_center_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 40,
+    "y": 60
+  },
+  "constructed_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 60,
+    "y": 60
+  },
+  "cooking_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 80,
+    "y": 0
+  },
+  "ctu_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 100,
+    "y": 0
+  },
+  "distribution_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 120,
+    "y": 0
+  },
+  "eating_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 140,
+    "y": 0
+  },
+  "family_tent_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 80,
+    "y": 20
+  },
+  "farming_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 100,
+    "y": 20
+  },
+  "fire_station_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 120,
+    "y": 20
+  },
+  "garbage_pit_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 140,
+    "y": 20
+  },
+  "gov_office_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 80,
+    "y": 40
+  },
+  "group_center_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 100,
+    "y": 40
+  },
+  "hand_washing_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 120,
+    "y": 40
+  },
+  "health_center_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 140,
+    "y": 40
+  },
+  "health_post_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 80,
+    "y": 60
+  },
+  "helipad_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 100,
+    "y": 60
+  },
+  "high_school_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 120,
+    "y": 60
+  },
+  "hindu_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 140,
+    "y": 60
+  },
+  "hospital_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 0,
+    "y": 80
+  },
+  "jewish_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 20,
+    "y": 80
+  },
+  "kindergarden_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 40,
+    "y": 80
+  },
+  "landfill_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 60,
+    "y": 80
+  },
+  "local_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 80,
+    "y": 80
+  },
+  "marketplace_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 100,
+    "y": 80
+  },
+  "mass_shelter_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 120,
+    "y": 80
+  },
+  "mobile_clinic_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 140,
+    "y": 80
+  },
+  "muslim_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 0,
+    "y": 100
+  },
+  "ngo_office_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 20,
+    "y": 100
+  },
+  "nursery_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 40,
+    "y": 100
+  },
+  "nutrition_center_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 60,
+    "y": 100
+  },
+  "outreach_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 80,
+    "y": 100
+  },
+  "pharmacy_center_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 100,
+    "y": 100
+  },
+  "playground_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 120,
+    "y": 100
+  },
+  "police_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 140,
+    "y": 100
+  },
+  "prefab_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 0,
+    "y": 120
+  },
+  "primary_school_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 20,
+    "y": 120
+  },
+  "prison_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 40,
+    "y": 120
+  },
+  "private_school_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 60,
+    "y": 120
+  },
+  "protection_centre_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 80,
+    "y": 120
+  },
+  "pump_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 100,
+    "y": 120
+  },
+  "rainwater_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 120,
+    "y": 120
+  },
+  "reception_centre_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 140,
+    "y": 120
+  },
+  "recycling_centre_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 0,
+    "y": 140
+  },
+  "registration_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 20,
+    "y": 140
+  },
+  "rehabilitation_center_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 40,
+    "y": 140
+  },
+  "secondary_school_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 60,
+    "y": 140
+  },
+  "security_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 80,
+    "y": 140
+  },
+  "self_constructed_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 100,
+    "y": 140
+  },
+  "shelter_kit_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 120,
+    "y": 140
+  },
+  "shops_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 140,
+    "y": 140
+  },
+  "shower_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 160,
+    "y": 0
+  },
+  "slaughterhouse_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 180,
+    "y": 0
+  },
+  "solar_light_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 200,
+    "y": 0
+  },
+  "sport_center_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 220,
+    "y": 0
+  },
+  "spring_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 240,
+    "y": 0
+  },
+  "star-14": {
+    "height": 17,
+    "pixelRatio": 1,
+    "width": 17,
+    "x": 217,
+    "y": 40
+  },
+  "tank_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 260,
+    "y": 0
+  },
+  "tap_stand_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 280,
+    "y": 0
+  },
+  "tent_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 300,
+    "y": 0
+  },
+  "toilet_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 160,
+    "y": 20
+  },
+  "trash_bin_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 180,
+    "y": 20
+  },
+  "treatment_unit_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 200,
+    "y": 20
+  },
+  "tree_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 220,
+    "y": 20
+  },
+  "warehouse_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 240,
+    "y": 20
+  },
+  "wash_stand_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 260,
+    "y": 20
+  },
+  "waste_collection_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 280,
+    "y": 20
+  },
+  "water_truck_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 300,
+    "y": 20
+  },
+  "well_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 160,
+    "y": 40
+  },
+  "workshop_operational": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 180,
+    "y": 40
+  }
+}
